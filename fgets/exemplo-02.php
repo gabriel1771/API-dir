@@ -1,6 +1,6 @@
 <?php
 
-// transforma todo arquivo em uma string
+// transforma qualquer arquivo em uma string binaria, incluse arquivo de imagem;
 
 $filename = "php7.png";
 
